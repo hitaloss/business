@@ -1,1 +1,191 @@
-[{"model": "products.product", "pk": "1e7c0050-954a-422c-8def-e8a3b295e755", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "2343128e-05c9-40f0-9b63-a8d218c5aa52", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "24267ec1-bc85-41f3-918d-0c849cfc3fd9", "fields": {"description": "Smartband XYZ 3.0aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "3700d383-b81a-4640-8676-face60db3b55", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "6fddc198-a390-4be5-a7c0-3bca20048def", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "79825006-504c-4a3d-8b0a-567ac43bf391", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "8240284e-d03b-4df6-88df-d87a487a4d5f", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "a2119d30-cc43-48c9-9476-e102c334e3ca", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "a50a7554-573b-484e-9ccb-c626275358ca", "fields": {"description": "123", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "bfa71969-bb28-4d24-bcfa-bb4ab1e5b2f6", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "dc36c061-9a9f-44d2-918f-71c19e715f3f", "fields": {"description": "Smartband XYZ 3.0", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}, {"model": "products.product", "pk": "e3aa25f3-ca96-4377-94c4-805820c9d1af", "fields": {"description": "Smartband XYZ 1000000", "price": "100.99", "quantity": 15, "is_active": true, "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"}}]
+[
+  {
+    "model": "users.user",
+    "pk": "50445646-6e5e-4c7d-bc43-743c4db229e4",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$q6amJyiVmd9KIQ3wgIEvEk$h/I2zHWObMYf7q6atG2Oq7ROeRsMFzrr7iTQ+uvzTYc=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-10-21T18:43:06.586Z",
+      "username": "hitalo_1",
+      "first_name": "feijoada",
+      "last_name": "sotnas",
+      "is_seller": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "55e467d9-287f-4367-bf03-bd2ccf323b9e",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$FyjXkShYs2VpI9oPk58imL$J1NEqSM3+6EG2S8qjf/WE36H0G6WH2jZ9RdzZaAAtyE=",
+      "last_login": null,
+      "is_superuser": true,
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-10-21T20:17:10.542Z",
+      "username": "hitalo",
+      "first_name": "hitalo",
+      "last_name": "junior",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "81ee4b4d-64b1-47ed-89c8-14e2ec3aadc2",
+    "fields": {
+      "password": "pbkdf2_sha256$390000$H4sOJ6nDnuboguCQm2pMJU$Lck4RGxLY+QjGXKd0sHdsth3jjJlE6rfshMGLU18/lM=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "",
+      "is_staff": false,
+      "is_active": false,
+      "date_joined": "2022-10-21T20:23:02.994Z",
+      "username": "hitalo_2",
+      "first_name": "hitalo",
+      "last_name": "son",
+      "is_seller": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "1e7c0050-954a-422c-8def-e8a3b295e755",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "2343128e-05c9-40f0-9b63-a8d218c5aa52",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "24267ec1-bc85-41f3-918d-0c849cfc3fd9",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "3700d383-b81a-4640-8676-face60db3b55",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "6fddc198-a390-4be5-a7c0-3bca20048def",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "79825006-504c-4a3d-8b0a-567ac43bf391",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "8240284e-d03b-4df6-88df-d87a487a4d5f",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "a2119d30-cc43-48c9-9476-e102c334e3ca",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "a50a7554-573b-484e-9ccb-c626275358ca",
+    "fields": {
+      "description": "123",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "bfa71969-bb28-4d24-bcfa-bb4ab1e5b2f6",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "dc36c061-9a9f-44d2-918f-71c19e715f3f",
+    "fields": {
+      "description": "Smartband XYZ 3.0",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "e3aa25f3-ca96-4377-94c4-805820c9d1af",
+    "fields": {
+      "description": "Smartband XYZ 1000000",
+      "price": "100.99",
+      "quantity": 15,
+      "is_active": true,
+      "user": "50445646-6e5e-4c7d-bc43-743c4db229e4"
+    }
+  }
+]
