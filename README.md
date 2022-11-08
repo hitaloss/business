@@ -35,7 +35,7 @@ python -m venv venv
 ## A seguir, baixe todas as dependências rodando o comando:
 
 ```
-pip freeze -r requirements.txt
+pip install -r requirements.txt
 ```
 
 #
